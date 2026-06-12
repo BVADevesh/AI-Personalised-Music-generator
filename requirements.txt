@@ -3,3 +3,6 @@ fluidsynth
 torch
 magenta
 numpy
+streamlit
+numpy
+pandas
